@@ -1,0 +1,6 @@
+User Balance: $-5.00
+
+Order ID: 11
+Item: Apple 1kg, Quantity: 2
+Total Price: $295.00
+------------------------------
